@@ -1,0 +1,22 @@
+# ignore dir list
+*/target/
+!/openfire_src/target/
+*/.settings/
+*/__MACOSX/
+*/.svn/
+/.metadata
+*/bin/
+
+*/WEB-INF/classes/
+
+# ignore file list
+*.class
+.DS_Store
+.classpath
+#.project
+.externalToolBuilders/
+.metadata
+.settings
+
+
+/.recommenders/
